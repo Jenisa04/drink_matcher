@@ -2,6 +2,8 @@
 
 A fun Streamlit app to explore **Pearson** vs **Spearman** correlation — see how two users' drink preferences compare!
 
+🚀 **[👉 Try it live on Streamlit!](https://drinkmatcher.streamlit.app/)**
+
 ---
 
 ### 🧠 Understanding the Correlations
